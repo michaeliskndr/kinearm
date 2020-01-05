@@ -1,4 +1,5 @@
 # kinearm
+Implementating numerical pseudoinverse Jacobian to find states of joints from input position and implementating monte carlo to generate workspace of 6 DOF Robot
 
 ## Requirements
 - Using Python 3.7.x
